@@ -6,8 +6,8 @@
 
 | Keterangan | Informasi |
 |---|---|
-| Nama | Syariah Nor Alfisah |
-| NIM | 240104040130 |
+| Nama | Ika Aulia |
+| NIM | 240104040152 |
 | Program Studi | Teknologi Informasi |
 | Mata Kuliah | Pemrograman Mobile |
 | Proyek | Praktikum 04 |
